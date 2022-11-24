@@ -2,7 +2,15 @@
 	<title>aivct</title>
 </head>
 <body>
-	<h1 style="border-bottom:1px solid">An Irregular Verb Called Truth</h1>
+	<script>
+		var T_WORDS = ["Taboo","Tacky","Tangent","Titantic","Telluric","Tempest","Tensile","Tepid","Terse","Textile","Then","Third","Totemtic","Trivalent","Typeset","Tribble"];
+		window.onload = function()
+		{
+			let tWord = T_WORDS[Math.floor(Math.random() * T_WORDS.length)]
+			document.getElementById("tWord").innerHTML = tWord;
+		}
+	</script>
+	<h1 style="border-bottom:1px solid" id="mainHeader">An Irregular Verb Called <span id="tWord">Trying</span></h1>
 	<p><i>Because 4-letter acronyms are so last decade.</i></p>
 	
 	<h2>Qu'est que c'est?</h2>
@@ -15,7 +23,7 @@
 	<p>An existential crisis in the middle of 3am, during the climax of the covid-19 pandemic of 2019-2021 (hopefully)[2022 update: nope, still ongoing]. It was inevitable.</p>
 	
 	<h2>Why no CSS?</h2>
-	<p>Because that's my day job. And I don't trust the information on websites with pretty CSS (relevant <a href="https://xkcd.com/1301/">xkcd</a>).</p>
+	<p>Because I can, and also (<a href="https://xkcd.com/1301/">xkcd</a>).</p>
 	
 	<h2>Doodles</h2>
 	<h3>Heroes</h3>
@@ -30,5 +38,8 @@
 	<p><a href="https://aivct.github.io/aivct-js-art-toys/"><img src="./assets/images/doodle previews/perspective_preview.PNG" width=400/></a><p>
 	<p>The result of a surprisingly smooth attempt to combine programming and art. </p>
 	
-	<h2 style="border-bottom:1px solid">Footer, I guess, though there's nothing here. You can go now. Go take a walk. Enjoy the countryside. If you live in a city, doing the latter will guarantee you do a lot of the former. Actually it's ridiculous how car-centric most cities have become. Why does a driver's license double as ID anyways? What if I bike to work? Oh wait, I can't, because this is North America, smack-dab middle of car country. Anyways, rant over. Seriously, breathe some outdoor air. Unless you live next to a highway, in which case... don't go outside, I guess?</h2>
+	<h2>Why do you make things?</h2>
+	<p>I say to myself, dear hypothetical questioner, giggling madly while being of no use to society. Why did I write a set of UI components in JS canvas that nobody uses? Why did I waste a morning analyzing the frequency of every word in the dictionary? Why do I do anything? Do you know? If you have an answer please tell me because I have no idea.</p>
+	
+	<h2 style="border-bottom:1px solid">Footer, I guess, though there's nothing here. You can go now. </h2>
 </body>
