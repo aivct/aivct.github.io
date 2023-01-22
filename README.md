@@ -3,8 +3,8 @@ what started as an existential crisis at 5am
 
 ## random notes and filler to pad github contributions after jet lag
 - [ ] Todo: figure out what to put on it.
-- [x] Figure out how to get out of existential rut.
-
+- [x] Figure out how to get out of existential rut... (it will pass)
+    - [ ] Figure out how to face reality.
 ## notes on depression
 at times you feel as if you wish to run, <br>
 not run towards but run from <br>
