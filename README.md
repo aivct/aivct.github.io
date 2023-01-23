@@ -5,6 +5,13 @@ what started as an existential crisis at 5am
 - [ ] Todo: figure out what to put on it.
 - [x] Figure out how to get out of existential rut... (it will pass)
     - [ ] Figure out how to face reality.
+    
+## list of favorite sites/people
+- Christopher W. Alexander, with *Notes on the Synthesis of Form* and lots of thoughts on pattern languages.
+- Galaxy Kate, with an [article that is essential reading if you like procedural generation of things](https://galaxykate.com/blog/generator.html). 
+- John Allison, of [Scary Go Round](https://web.archive.org/web/20191227151057/http://scarygoround.com/) fame
+- [Sloane Leong](https://sloaneleong.com/2022/01/05/on-purple-prose/), she has a sensible blog about art
+    
 ## notes on depression
 at times you feel as if you wish to run, <br>
 not run towards but run from <br>
