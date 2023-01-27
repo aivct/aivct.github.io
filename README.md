@@ -11,6 +11,8 @@ what started as an existential crisis at ~5am~ 9pm
 
 Sondheim enthuisiast, stationery fetishist, sometime script-monkey. Fails to speak three languages. Likes the lighting from dark cloudy skies. Takes pleasure in the mundane. Has seen more sunrises than sunsets.
 
+Prefers genderless pronouns. they/them/theirs.
+
 ## list of favorite sources of information
 - Christopher W. Alexander, with *Notes on the Synthesis of Form* and lots of thoughts on pattern languages.
 - Galaxy Kate, with an [article that is essential reading if you like procedural generation of things](https://galaxykate.com/blog/generator.html). 
