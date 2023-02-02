@@ -5,6 +5,7 @@ what started as an existential crisis at ~5am~ 9pm
 - [ ] Todo: figure out what to put on it.
 - [x] Figure out how to get out of existential rut... (it will pass)
     - [ ] Figure out how to face reality.
+    - [ ] Deal with procrastination
 
 ## pinned
 >And a cold blue light suffused the landscape, from the top of the black spires to the glistening brick streets. 
