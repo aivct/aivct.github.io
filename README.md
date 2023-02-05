@@ -7,6 +7,7 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
     - [ ] Figure out how to face reality.
     - [ ] Deal with procrastination
     - [ ] What am I doing with my life?
+        - [ ] Something is not *the* thing.
 
 ## pinned
 >And a cold blue light suffused the landscape, from the top of the black spires to the glistening brick streets. 
