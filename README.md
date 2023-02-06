@@ -6,8 +6,10 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
 - [x] Figure out how to get out of existential rut... (it will pass)
     - [ ] Figure out how to face reality.
     - [ ] Deal with procrastination
+        - [ ] Why is the idea of doing something almost always better than actually doing it?
     - [ ] What am I doing with my life?
         - [ ] Something is not *the* thing.
+        - [ ] Where is my port of call?
 
 ## pinned
 >And a cold blue light suffused the landscape, from the top of the black spires to the glistening brick streets. 
@@ -23,7 +25,6 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
 >But the changing of the guard is soon finished. The sun enters its proper place in the sky, and the sky returns to its proper hue.
 >
 >This blue was not an ordinary blue. It was a blue that was met by cooperation from everything under the sun. Everything in the land seemed a dull greyish-blue, from the houses to the mountains and the people in the streets. Everything was blue, and everything was beautiful.
-
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
