@@ -29,13 +29,22 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
 ## bio
 Prefers genderless pronouns: they/them/theirs.
 
->"I think we lost interest in the future the moment the things we told were coming actually came to be and wasn't what we thought they were gonna be." — Dr. Franklin, Babylon 5
+>"And another hundred people just got off of the train [...]
+>
+>[It's a city of strangers](https://genius.com/22560484) <br>
+>Some come to work, some to play <br>
+>A city of strangers <br>
+>Some come to stare, some to stay
 
 Sondheim enthuisiast, stationery fetishist, sometime script-monkey. Obsessed with cloudy days.
 
 >"Writing is the art of transforming what is said to what is heard"
 
 A gardener in process of becoming an architect. 
+
+>"I think we lost interest in the future the moment the things we told were coming actually came to be and wasn't what we thought they were gonna be." — Dr. Franklin, Babylon 5
+
+An unwilling futurist.
 
 >"Many fools have burned their bridges after they have crossed, but my Lord Rochester is the only one I know who burns his bridges while he's still standing on them."
 
