@@ -55,3 +55,4 @@ Runs away from everything.
 - Galaxy Kate, with an [article that is essential reading if you like procedural generation of things](https://galaxykate.com/blog/generator.html). 
 - John Allison, of [Scary Go Round](https://web.archive.org/web/20191227151057/http://scarygoround.com/) fame
 - [Sloane Leong](https://sloaneleong.com/2022/01/05/on-purple-prose/), she has a sensible blog about art and [writing](https://sloaneleong.com/2021/10/24/on-structure-protagonists-and-conflict/).
+- Ctrl+Paint, digital art tutorials that include [fundementals](https://www.youtube.com/watch?v=AYTA2nreipw&list=PLI68ClDpxTYREFVVjXl-Me1WXq0-4Iig_). Yes, even if you are a programmer.
