@@ -8,8 +8,7 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
     - [ ] Deal with procrastination
         - [ ] Why is the idea of doing something almost always better than actually doing it?
     - [ ] What am I doing with my life?
-        - [x] Something is not *the* thing.
-            - [ ] None of us [fit in boxes](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/). There is *always* contrary evidence.
+        - [x] Something is not *the* thing. (None of us [fit in boxes](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/). There is *always* contrary evidence. Make a decision.)
         - [ ] Where is my port of call?
 
 ## pinned
