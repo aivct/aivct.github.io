@@ -11,20 +11,14 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
         - [x] Something is not *the* thing. (None of us [fit in boxes](https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/). There is *always* contrary evidence. Make a decision.)
         - [ ] Where is my port of call?
 
-## pinned
->And a cold blue light suffused the landscape, from the top of the black spires to the glistening brick streets. 
+## zeitgeist
+>When remedies are past, the griefs are ended 
 >
->It was punctured by the occasional spot of warm fire, a candle from an open window.
+>By seeing the worst, which late on hopes depended. 
 >
->The wind whooshed through the gaps, a bird called from overhead, as the sun began its dull rise.
+>To mourn a mischief that is past and gone 
 >
->The sun does not rise all at once. It begins with a false color, from the blackness of night to the rich blue of twilight. It is fleeting, and thus beautiful. 
->
->That blue is soon replaced, when all the skies bow to the true sun in its fiery hue. 
->
->But the changing of the guard is soon finished. The sun enters its proper place in the sky, and the sky returns to its proper hue.
->
->This blue was not an ordinary blue. It was a blue that was met by cooperation from everything under the sun. Everything in the land seemed a dull greyish-blue, from the houses to the mountains and the people in the streets. Everything was blue, and everything was beautiful.
+>Is the next way to draw new mischief on. 
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
