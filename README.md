@@ -3,7 +3,7 @@ what started as an existential crisis at ~5am~ ~9pm~ 11pm
 
 ## random notes and filler to pad github contributions after jet lag
 - [ ] Todo: figure out what to put on it.
-- [x] Figure out how to get out of existential rut... (it will pass)
+- [ ] Figure out how to get out of existential rut... ~(it will pass)~ but it returns
     - [ ] Figure out how to face reality.
     - [ ] Deal with procrastination
         - [x] Why is the idea of doing something almost always better than actually doing it? (That's just human nature)
