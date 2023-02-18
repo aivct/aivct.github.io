@@ -12,7 +12,9 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
-That especial moment of clarity is like a hangover. Dread makes for a powerful motivator, if it wasn't so paralyzing. But before the day is over, one can always pick up the bottle again.
+Tis luck, you see. Serendipity. Men of old called it providence, and men still more ancient called it destiny, but tis all the fate.
+
+It comes and it goes; why, the winds change so often that you'd think it could only be chance.
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
