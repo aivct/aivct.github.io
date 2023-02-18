@@ -12,13 +12,7 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
->When remedies are past, the griefs are ended 
->
->By seeing the worst, which late on hopes depended. 
->
->To mourn a mischief that is past and gone 
->
->Is the next way to draw new mischief on. 
+That especial moment of clarity is like a hangover. Dread makes for a powerful motivator, if it wasn't so paralyzing. But before the day is over, one can always pick up the bottle again.
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
