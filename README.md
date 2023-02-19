@@ -5,6 +5,7 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
 - [ ] Todo: figure out what to put on it.
 - [ ] Figure out how to get out of existential rut... ~(it will pass)~ but it returns
     - [ ] Figure out how to face reality.
+        - [ ] Is it depression, or is it laziness?
     - [ ] Deal with procrastination
         - [x] Why is the idea of doing something almost always better than actually doing it? (That's just human nature)
     - [ ] What am I doing with my life?
