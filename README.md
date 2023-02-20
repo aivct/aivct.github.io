@@ -13,9 +13,7 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
-Tis luck, you see. Serendipity. Men of old called it providence, and men still more ancient called it destiny, but tis all the fate.
-
-It comes and it goes; why, the winds change so often that you'd think it could only be chance.
+>"Hey, about 2am this morning, after a long day's work, 10 hours, WAY straining myself, probably just to prove I still could, I sat here alone in the half-light listening to wistful music composed by Charles Chaplin, sipping my whiskey, and smoking a couple of cigarettes, while one thought led to another until I found myself sort of standing outside myself and laughing, laughing as hard as ever I've laughed – at myself. For no particular reason. Just laughing at myself, as though I'd just gotten the punch line of a joke heard long ago." --Michael Ventura
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
