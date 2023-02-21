@@ -13,7 +13,7 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
->"Hey, about 2am this morning, after a long day's work, 10 hours, WAY straining myself, probably just to prove I still could, I sat here alone in the half-light listening to wistful music composed by Charles Chaplin, sipping my whiskey, and smoking a couple of cigarettes, while one thought led to another until I found myself sort of standing outside myself and laughing, laughing as hard as ever I've laughed – at myself. For no particular reason. Just laughing at myself, as though I'd just gotten the punch line of a joke heard long ago." --Michael Ventura
+>"This is much the way that Enkidu is seen - not as a societal memory of when "we" were hunter gatherers; rather, he is plucked from their own awareness that there were still hunter gatherers "just outside" their own Mesopotamian state system."
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
