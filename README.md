@@ -13,7 +13,9 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
->"This is much the way that Enkidu is seen - not as a societal memory of when "we" were hunter gatherers; rather, he is plucked from their own awareness that there were still hunter gatherers "just outside" their own Mesopotamian state system."
+>"To tell a story often told,
+>
+>	but again interpret code."
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
