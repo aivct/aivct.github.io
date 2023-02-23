@@ -13,9 +13,11 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
->"To tell a story often told,
+>Above the dust to which you'd mould me,
 >
->	but again interpret code."
+>In manhood's glorious pride to rise,
+>
+>I am an Englishman, behold me!
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
