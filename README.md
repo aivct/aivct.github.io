@@ -13,11 +13,7 @@ what started as an existential crisis at ~5am~ ~9pm~ ~11pm~ 6pm
         - [ ] Where is my port of call?
 
 ## zeitgeist
->Above the dust to which you'd mould me,
->
->In manhood's glorious pride to rise,
->
->I am an Englishman, behold me!
+>The cupholder doesn't start at the Design Engineer. It starts in the Design Studio where it is specified to weigh less than a gram, be infinitely stiff, and be able to travel back through time. The Engineer brings it from "literally impossible" to "possible, but difficult" and the fabricator says, "Why are you giving me this incredibly difficult thing?" The fabricator hates the engineer for making his life difficult and the designer hates the engineer for ruining his perfect cupholder.
 
 ## bio
 Prefers genderless pronouns: they/them/theirs.
